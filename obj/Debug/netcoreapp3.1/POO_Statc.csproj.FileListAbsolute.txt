@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.exe
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.deps.json
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.runtimeconfig.json
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.runtimeconfig.dev.json
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.dll
+C:\Users\fic\Desktop\POO_Statc\bin\Debug\netcoreapp3.1\POO_Statc.pdb
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.AssemblyInfo.cs
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.dll
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.pdb
+C:\Users\fic\Desktop\POO_Statc\obj\Debug\netcoreapp3.1\POO_Statc.genruntimeconfig.cache
